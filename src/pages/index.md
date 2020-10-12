@@ -5,8 +5,9 @@ image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Why pick me to help you setup your gatsbyjs site with github
   description: >
+    As you can see this gatsby website is live and to make sure I don't waste your time I am making changes locally on my laptop and will push these changes to my github account that in turn will auto deploy this to netlify. that is your project yes?
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
