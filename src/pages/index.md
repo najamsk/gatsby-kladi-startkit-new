@@ -5,14 +5,17 @@ image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why pick me to help you setup your gatsbyjs site with github
+  title: Why pick me to help you setup your gatsbyjs site with github. connected
+    with netlify cms
   description: >
-    As you can see this gatsby website is live and to make sure I don't waste your time I am making changes locally on my laptop and will push these changes to my github account that in turn will auto deploy this to netlify. that is your project yes?
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    As you can see this gatsby website is live and to make sure I don't waste
+    your time I am making changes locally on my laptop and will push these
+    changes to my github account that in turn will auto deploy this to netlify.
+    that is your project yes?
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
